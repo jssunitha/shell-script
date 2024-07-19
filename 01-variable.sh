@@ -1,5 +1,5 @@
-PERSON1=ramesh
-PERSON2=suresh
+PERSON1=1
+PERSON2=2
 
-echo " Hello $PERSON1 "
-echo "hello how are you $PERSON2"
+echo "$1 Hello $2 "
+echo "$2 hello how are you $1"
