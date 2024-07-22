@@ -16,4 +16,4 @@ else
    echo "installation of mysql is failure "  
    exit 1
  else
-    echo "installation FAILURE"
+    echo "installation is SUCCESS"
